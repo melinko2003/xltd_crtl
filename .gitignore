@@ -71,3 +71,6 @@ target/
 
 # tar.gz files
 *.tar.gz
+
+# Custom
+.DS_Store
