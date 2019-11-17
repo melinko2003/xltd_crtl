@@ -20,6 +20,8 @@ lib64/
 parts/
 sdist/
 var/
+certs/
+tests/
 *.egg-info/
 .installed.cfg
 *.egg
@@ -66,3 +68,6 @@ target/
 
 # environment variables
 .env
+
+# tar.gz files
+*.tar.gz
